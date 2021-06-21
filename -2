@@ -1,0 +1,29 @@
+[33mcommit 603d8f2bfd76542c329fd0bc2e9249a07c86b571[m[33m ([m[1;36mHEAD -> [m[1;32mTA0001_discount_calculation[m[33m)[m
+Author: Konstantin <kermachkov@gmail.com>
+Date:   Fri Jun 18 19:52:27 2021 +0300
+
+    Personal discount for user can be calculated
+
+[33mcommit 201df352d0395d5a92daf39f43d7b544bbc73850[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mTA0001[m[33m)[m
+Author: Konstantin <kermachkov@gmail.com>
+Date:   Fri Jun 18 19:35:54 2021 +0300
+
+    test SSH connection
+
+[33mcommit 344809a4529183d707dbb978f4100cc43e998bfe[m
+Author: Konstantin <kermachkov@gmail.com>
+Date:   Wed Jun 16 19:22:14 2021 +0300
+
+    added gitignore file and updated commit message 2
+
+[33mcommit 508693cc7d9c9257ae1647b72d3c397b17333db5[m
+Author: Konstantin <kermachkov@gmail.com>
+Date:   Wed Jun 16 19:07:01 2021 +0300
+
+    added certificate
+
+[33mcommit 880767426956ba57d2136e2b7c85a6c0b7eee879[m
+Author: Konstantin <kermachkov@gmail.com>
+Date:   Wed Jun 16 18:54:22 2021 +0300
+
+    first commit
